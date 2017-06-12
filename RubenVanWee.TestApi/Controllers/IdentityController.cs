@@ -8,17 +8,17 @@ namespace RubenVanWee.TestApi
     [Route("api/[controller]")]
     public class IdentityController : Controller
     {
-        [HttpPost]
-        public async Task<IActionResult> Create([FromBody] AccountRegisterLogin model)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState.Values.SelectMany(v => v.Errors).Select(modelError => modelError.ErrorMessage).ToList());
-            }
+        // [HttpPost]
+        // public async Task<IActionResult> Create([FromBody] AccountRegisterLogin model)
+        // {
+        //     if (!ModelState.IsValid)
+        //     {
+        //         return BadRequest(ModelState.Values.SelectMany(v => v.Errors).Select(modelError => modelError.ErrorMessage).ToList());
+        //     }
 
-            var user = new UserEntity { UserName = model.Email, Email = model.Email };
-            var result = await _
-        }
+        //     var user = new UserEntity { UserName = model.Email, Email = model.Email };
+        //     // var result = await _
+        // }
     }
 
     public class AccountRegisterLogin
