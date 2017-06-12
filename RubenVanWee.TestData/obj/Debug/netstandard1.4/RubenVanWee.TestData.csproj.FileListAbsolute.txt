@@ -1,0 +1,6 @@
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/bin/Debug/netstandard1.4/RubenVanWee.TestData.deps.json
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/bin/Debug/netstandard1.4/RubenVanWee.TestData.dll
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/bin/Debug/netstandard1.4/RubenVanWee.TestData.pdb
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/obj/Debug/netstandard1.4/RubenVanWee.TestData.AssemblyInfo.cs
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/obj/Debug/netstandard1.4/RubenVanWee.TestData.dll
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestData/obj/Debug/netstandard1.4/RubenVanWee.TestData.pdb

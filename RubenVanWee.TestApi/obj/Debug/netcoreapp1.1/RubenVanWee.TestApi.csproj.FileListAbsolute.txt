@@ -1,0 +1,10 @@
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestApi.deps.json
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestApi.runtimeconfig.json
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestApi.runtimeconfig.dev.json
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestApi.dll
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestApi.pdb
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestData.dll
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/bin/Debug/netcoreapp1.1/RubenVanWee.TestData.pdb
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/obj/Debug/netcoreapp1.1/RubenVanWee.TestApi.AssemblyInfo.cs
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/obj/Debug/netcoreapp1.1/RubenVanWee.TestApi.dll
+/Users/ruben/Development/temp/authaut/RubenVanWee.TestApi/obj/Debug/netcoreapp1.1/RubenVanWee.TestApi.pdb
